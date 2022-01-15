@@ -1,1 +1,65 @@
 # payments
+
+## Features
+- history (mongodb)
+- events (redpanda, asyncapi, wal + producer)
+- localization (gettext,pytz)
+- datastore (mongodb, motor, pymongo-migrations)
+- caching (redis)
+- redpanda
+- Clean Architecture
+- Use Cases
+- git convention
+- API Versioning
+- Backend First
+- asyncio shutdown
+- kubernetes (Deployments,StatefulSet,Ingress)
+- helm
+- logging (structlog, sentry)
+- tracing (jaeger)
+- metrics (prometheus,VictoriaMetrics,dashboard)
+- testing (pytest, e2e, integration, unit, contract)
+- static tools (flake8,mypy,isort,black)
+- api spec (openapi)
+- python3.9
+- OAuth2
+- Sessions (jwt token)
+- OpenID Connect
+- SAML 2.0
+- Kerberos
+- Admin Console (Svelte)
+- Social Login - Google
+- Social Login - Facebook
+- Social Login - VK
+- Social Login - Twitter
+- Social Login - Github
+- Stripe
+- Braintree
+- Sendgrid
+- Appsflyer
+- Revenuecat
+- Promocodes
+- Email sender
+- Subscription (subscribe,unsubscribe,restore,refund,autopay)
+- Digital Content (Intensives)
+- Contacts
+- Settings
+- Showcase (offers,services)
+- Service Provisioning
+- Marketing (Telegram,Email,Push Notifications)
+- User Profile
+- Comments
+- Content Pages
+- Product Pages
+- Tags and Categories
+- Search Content
+- Messages
+- RSS Feed
+- SEO Optimization
+- Anonymous Users (sticky cookie) 
+- Analytics
+- Gifts
+- Support
+- Webinars (youtube,calendar,appointments)
+- Workflows
+- Terraform
